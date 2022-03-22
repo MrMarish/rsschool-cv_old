@@ -1,0 +1,30 @@
+#Marina Titenko
+**_JUNIOR FRONTEND DEVELOPER_**
+
+---
+
+**CONTACT INFORMATION**
+
+---
+
+**PERSONAL PROFILE STATEMENT**
+
+
+---
+
+**SKILLS**
+
+
+---
+
+**CODE EXAMPLE**
+
+---
+
+**EDUCATION AND COURSES**
+
+---
+
+**LANGUAGES**
+
+
