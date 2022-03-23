@@ -31,6 +31,13 @@ At the moment I am a student at RSSchool and studying JavaScript/Front-end. I be
 
 ### CODE EXAMPLE
 
+```
+function multiply(a, b){
+  return (a * b);
+};
+
+```
+
 ---
 
 ### EDUCATION AND COURSES
