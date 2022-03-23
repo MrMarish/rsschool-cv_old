@@ -7,7 +7,9 @@
 ### CONTACT INFORMATION
 
 **discord:** mr.marish
+
 **telegram:** @Marina
+
 **e-mail:** mr.marish@gmail.com
 
 ---
