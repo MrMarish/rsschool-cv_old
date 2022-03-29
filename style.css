@@ -1,0 +1,16 @@
+html {
+  font-family: Roboto, sans-serif;
+}
+h1 {
+  color: #167958;
+  margin: 0;
+}
+h2 {
+  color: #a3754f;
+  margin: 0;
+}
+
+h3 {
+  color: #c49a12;
+  text-transform: uppercase;
+}
